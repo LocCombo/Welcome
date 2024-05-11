@@ -4,7 +4,7 @@ Chào mừng bạn đến với trang GitHub của tôi!
 
 ## Giới thiệu về bản thân 🚀
 
-- **Tên**: Nguyễn Tấn 
+- **Tên**: Nguyễn Tấn Lộc
 - **Nơi ở**: 25/9 Lương Ngọc Quyến, P5, Gò Vấp, TP.HCM
 - **Chuyên ngành**: Công Nghệ Thông Tin
 - **Sở thích**: Chơi game, đi du lịch, nghe nhạc
